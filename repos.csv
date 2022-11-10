@@ -1,0 +1,18 @@
+name,description,language,stars
+full-stack-fastapi-postgresql,"Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.",Python,1797
+dotfiles,My dotfiles and personal preferences,Shell,514
+TypeScript-Redux,A small tutorial on Dev.TO that will show you how to set up a redux store using react-typeScript and how to create an actionCreator to work with AJAX using TypeScript,TypeScript,3
+umbrella-ui,A UI library built with TailwindCSS and documented in Storybook.,TypeScript,1
+KnittingCounter,"A simple localStorage, ReactJS/TS and TailwindCSS website for keeping track of knitting counters. Made with <3 for all the people knitting.",TypeScript,1
+MadsFrost.dev,Portifolio showing my work.,CSS,0
+Linux-CatAndTac,F# implementation of the Linux cat and tac OS functions,F#,0
+GameJam,Assignment in object-oriented programming with Theo Rüter Würsten and Peter Bjerre Hansen,F#,0
+RPUKmarkets,,JavaScript,0
+DroneTrafficFlow,Simulating drone traffic flow with F#,F#,0
+StreamValley,"A music streaming app, using embedded YouTube, SoundCloud and Spotify players, with track switch capabilities between platforms. Works as a general streaming web app.",TypeScript,0
+MadsFrost,,,0
+MarkdownNotes,"Desktop app for writing notes in markdown built on React, Electron, TypeScript and webpack.",TypeScript,0
+API-movies,"This is a project for movies and testing the different features of the OMDb api for open movie ratings, rankings, listings and average ratings from users/professionals.",JavaScript,0
+ReactAuthTemplate,A scalable React Template created for multiple projects maintaining authorization of users and a variety of Front-end views.,JavaScript,0
+Java,Course in Introductory Programming at the Technical University of Denmark,Java,0
+notebooks,Repo for various jupyter notebooks,Jupyter Notebook,0
